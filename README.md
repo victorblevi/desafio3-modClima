@@ -19,7 +19,7 @@ Opcional: utilizando do Serverless + Amplify.
 
 ### Prerequisites
 
-É necessario ter mongoDB para que API consiga fazer a conexão.
+É necessario ter mongoDB para que API funcione corretamente.
 
 ## Installing
 
